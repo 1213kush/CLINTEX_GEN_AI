@@ -1,4 +1,4 @@
-# CLINTEX_GEN_AI
+# ClinTex AI Medical Prescription
 Medical Prescription Reading Using OCR and suggest Low cost generic  medicine 
 
 # 🩺 Medical Prescription Reader using OCR
