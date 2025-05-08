@@ -54,3 +54,6 @@ pip install -r requirements.txt
 Upload scanned or camera images of medical prescriptions (JPG, PNG, etc.)
 
 Ensure image quality is clear (recommended: ≥ 300 DPI)
+
+
+
